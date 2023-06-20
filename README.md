@@ -7,7 +7,7 @@ const melvinTivane = {
     skills: ['JavaScript', 'React', 'MongoDB', 'SQL', 'HTML/CSS'],
     interests: ['AI and Machine Learning', 'Data Science', 'Web App Development'],
     experience: "Melvin has a deep understanding of JavaScript and React, along with proficiency in MongoDB. 
-        Melvin also has experience in fullstack development using NodeJS and Express framework.",
+                 Melvin also has experience in fullstack development using NodeJS and Express framework.",
     funFacts: "Melvin is a polyglot programmer, always eager to learn new programming languages and technologies."
 }
 ```
