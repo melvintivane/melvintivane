@@ -11,6 +11,7 @@ const melvinTivane = {
     funFacts: "Melvin is a polyglot programmer, always eager to learn new programming languages and technologies."
 }
 ```
+<!--hr-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mello47)](https://github.com/anuraghazra/github-readme-stats)
 
