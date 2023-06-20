@@ -1,5 +1,5 @@
 ## Hi there, I'm Melvin Tivane! 👋
-hr
+<!--hr-->
 ```js
 const melvinTivane = {
     role: "Software Engineer",
