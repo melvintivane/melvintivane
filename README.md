@@ -1,6 +1,6 @@
 ## Hi there, I'm Melvin Tivane! 👋
 <!--hr-->
-```js
+```java
 const melvinTivane = {
     role: "Software Engineer",
     pronouns: ['he', 'him'],
