@@ -6,8 +6,7 @@ const melvinTivane = {
     pronouns: ['he', 'him'],
     skills: ['JavaScript', 'React', 'MongoDB', 'SQL', 'HTML/CSS'],
     interests: ['AI and Machine Learning', 'Data Science', 'Web App Development'],
-    experience: "Melvin has a deep understanding of JavaScript and React, along with proficiency in MongoDB. 
-                 Melvin also has experience in back-end development using NodeJS and Express framework.",
+    experience: "Melvin has experience in back-end development using NodeJS and Express framework.",
     funFacts: "Melvin likes to explore the outdoors and he is an amateur chess player."
 }
 ```
