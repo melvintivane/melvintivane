@@ -2,12 +2,12 @@
 <!--hr-->
 ```js
 const melvinTivane = {
-    role: "Software Engineer",
+    role: "Full-Stack Software Developer",
     pronouns: ['he', 'him'],
     skills: ['JavaScript', 'React', 'MongoDB', 'SQL', 'HTML/CSS'],
-    interests: ['AI and Machine Learning', 'Data Science', 'Web App Development'],
-    experience: "Melvin has experience in back-end development using NodeJS and Express framework.",
-    funFacts: "Melvin likes to explore the outdoors and he is an amateur chess player."
+    interests: ['AI', 'Machine Learning', 'Data Science', 'Web App Development'],
+    experience: "Back-end development, NodeJS, Express framework",
+    funFacts: "Outdoor exploration, amateur chess player"
 }
 ```
 <!--hr-->
