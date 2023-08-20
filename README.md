@@ -7,7 +7,6 @@ const melvinTivane = {
     skills: ['JavaScript', 'React', 'MongoDB', 'SQL', 'HTML/CSS'],
     interests: ['AI', 'Machine Learning', 'Data Science', 'Web App Development'],
     experience: "Back-end development, NodeJS, Express framework",
-    funFacts: "Outdoor exploration, amateur chess player"
 }
 ```
 <!--hr-->
