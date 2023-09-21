@@ -1,10 +1,10 @@
 ## Hi there, I'm Melvin Tivane! 👋
 <!--hr-->
-```js
+```shell
 const melvinTivane = {
     role: "Full-Stack Software Developer",
     pronouns: ['he', 'him'],
-    skills: ['JavaScript', 'React', 'MongoDB', 'SQL', 'HTML/CSS'],
+    skills: ['JavaScript', 'NodeJS', 'React', 'MongoDB', 'SQL', 'HTML/CSS'],
     interests: ['AI', 'Machine Learning', 'Data Science', 'Web App Development'],
     experience: "Back-end development, NodeJS, Express framework",
 }
