@@ -3,10 +3,9 @@
 ```shell
 const melvinTivane = {
     role: "Full-Stack Software Developer",
-    pronouns: ['he', 'him'],
-    skills: ['JavaScript', 'NodeJS', 'React', 'MongoDB', 'SQL', 'HTML/CSS'],
-    interests: ['AI', 'Machine Learning', 'Data Science', 'Web App Development'],
-    experience: "Back-end development, NodeJS, Express framework",
+    skills: ["JavaScript", "NodeJS", "React", "MongoDB", "SQL", "HTML/CSS"],
+    interests: ["Ai", "Machine Learning", "Data Science", "Web App Development"],
+    experience: ["Back-end development", "NodeJS", "Express framework"],
 }
 ```
 <!--hr-->
