@@ -3,7 +3,7 @@
 ```shell
 const melvinTivane = {
     role: "Full-Stack Software Developer",
-    skills: ["JavaScript", "NodeJS", "React", "MongoDB", "SQL", "HTML/CSS"],
+    skills: ["JavaScript", "Java", "NodeJS", "Spring", "React", "MongoDB", "SQL", "HTML/CSS"],
     interests: ["Ai", "Machine Learning", "Data Science", "Web App Development"],
     experience: ["Back-end development", "NodeJS", "Express framework"],
 }
