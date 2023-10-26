@@ -4,7 +4,7 @@
 const melvinTivane = {
     role: "Full-Stack Software Developer",
     skills: ["JavaScript", "Java", "C#", "NodeJS", "Spring", "React", "MongoDB", "SQL", "HTML/CSS"],
-    interests: ["Ai", "Machine Learning", "Data Science", "Web App Development"],
+    interests: ["Chess", "MMA", "Web App Development"],
     experience: ["Back-end development", "NodeJS", "Express framework"],
 }
 ```
