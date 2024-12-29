@@ -2,10 +2,10 @@
 <!--hr-->
 ```shell
 const melvinTivane = {
-    role: "Full-Stack Software Developer",
-    skills: ["JavaScript", "Java", "C#", "NodeJS", "Spring", "React", "MongoDB", "SQL", "HTML/CSS"],
+    role: "Software Developer",
+    skills: ["Java", "JavaScript", "Spring", "React", "MongoDB", "SQL", "HTML/CSS"],
     interests: ["Chess", "MMA", "Literature", "Gaming"],
-    experience: ["Back-end development", "NodeJS", "Express framework"],
+    experience: ["Back-end development", "Java", "Spring framework"],
 }
 ```
 <!--hr-->
